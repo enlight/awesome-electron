@@ -239,6 +239,7 @@ Made with Electron.
 - [electron-require](https://github.com/brrd/electron-require) - Simplified require.
 - [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent or in memory database.
 - [electron-devtools-installer](https://github.com/GPMDP/electron-devtools-installer) - Install DevTools extensions from the Chrome Web Store.
+- [NodeRT](https://github.com/nodert/nodert) - Auto-generate NodeJS modules with TypeScript type definitions for UWP/WinRT APIs.
 
 ### Using Electron
 
